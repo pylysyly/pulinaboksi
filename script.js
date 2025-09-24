@@ -41,7 +41,7 @@ var WORDS = [
     "makkara", "mansikka", "makarooni", "mulan", "mopo", "myyrä", "muurahainen", "möhköfantti", "mörkö","mamma",
     "naru", "nökö", "nalle", "nakupelle", "nenä", "norsu", "näk'käri",
     "orava", "omena", "okko", "oja",
-    "peppi pitkätossu", "paloauto", "parkkipaikka", "puhekupla", "piirakka", "piimä", "pilli", "poliisi", "potta", "puuro", "pöytä", "papukaija", "puhelin", "pizza",
+    "peppi pitkätossu", "paloauto", "parkkipaikka", "puhekupla", "piirakka", "piimä", "pilli", "poliisi", "potta", "puuro", "pöytä", "papukaija", "pampas", "puhelin", "pizza",
     "quesadilla",
     "rusina", "raketti", "rotta", "rapu",
     "salaatti", "sauna", "sininen", "sipuli", "soittopeli", "suihku", "syksy",
